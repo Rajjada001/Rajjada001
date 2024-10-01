@@ -21,9 +21,9 @@ I'm Raj. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android & Web developer.
-- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence.
+- ✍️ &nbsp; Watching Anime and trying out the latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress. 
 
 <h3>🛠 Tech Stack</h3>
 
