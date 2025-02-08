@@ -27,7 +27,7 @@ I'm Raj. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | Go  
+- 💻 &nbsp; Python | Javascript | Java 
 - 🌐 &nbsp; Web Design| | HTML | CSS | JavaScript | Bootstrap| Machine Learning 
 - 🛢 &nbsp; MySQL | Firebase | AWS
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
